@@ -3,7 +3,8 @@
     "plugins": [
         "tiddlywiki/filesystem",
         "tiddlywiki/tiddlyweb",
-        "tiddlywiki/markdown"
+        "tiddlywiki/markdown",
+        "tiddlywiki/railroad"
     ],
     "themes": [
         "tiddlywiki/vanilla",
