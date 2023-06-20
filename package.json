@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "tiddlywiki . --server",
-    "build": "tiddlywiki . --verbose --version --build static index"
+    "build": "tiddlywiki . --verbose --version --output public --build static index"
   },
   "keywords": [],
   "author": "",
