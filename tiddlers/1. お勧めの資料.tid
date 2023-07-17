@@ -1,5 +1,5 @@
 created: 20230709133551710
-modified: 20230713141020211
+modified: 20230717233146857
 tags: TableOfContents
 title: 1. お勧めの資料
 type: text/vnd.tiddlywiki
@@ -11,26 +11,6 @@ type: text/vnd.tiddlywiki
 
 [[毎日のんびり日本語教師|https://nihongonosensei.net/]] 日本語の先生の文法説明、多いの例文があります。
 
-[[日本語駆け込み寺|http://viethuong.web.fc2.com/MONDAI/]] いろんなテーマの日本語の説明です。
-
-> [[初級文型の難所|http://viethuong.web.fc2.com/MONDAI/difficulty.html]]
-> [[日本語表現文型辞典|http://viethuong.web.fc2.com/MONDAI/dictionary.html]]
-> [[機能別日本語表現文型|http://viethuong.web.fc2.com/MONDAI/function.html]]
-
-[[絵でわかる日本語|https://www.edewakaru.com/]]
-
-[[MIC|https://www.mlcjapanese.co.jp/]] 英語の話者向けの日本のレッスン、色々な整理の資料があります。
-
-[[Tae Kimは英語で日本語についての説明|http://guidetojapanese.org/learn/grammar]]
-
-> [[中国語のバージョン|https://res.wokanxing.info/jpgramma/index.html]]
-
-[[sci.lang.japan 英語で日本語についての説明|https://www.sljfaq.org/afaq/afaq.html]]
-
-> [[英語言葉と日本語言葉の関係|https://www.sljfaq.org/afaq/english.html]]
-
-[[英語で日本語の文法の説明 by Michiel "Pomax" Kamermans|https://pomax.github.io/nrGrammar/]]
-
 ! 読みましょう
 
 [[日本語多読道場|https://yomujp.com/]]
@@ -40,8 +20,6 @@ type: text/vnd.tiddlywiki
 [[NHKニュース|https://www3.nhk.or.jp/news/]]
 
 > [[優しい日本語で書いたニュース|https://www3.nhk.or.jp/news/easy/]]
-
-[[青空文庫|https://www.aozora.gr.jp/index.html]]
 
 ! 聞きましょう
 
@@ -63,24 +41,14 @@ HARUKA先生
 
 [[Let’s learn Japanese from small talk!|https://podcasts.apple.com/podcast/lets-learn-japanese-from-small-talk/id1449307021]]
 
-[[アニメ、漫画の日本語|https://anime-manga.jp/zh/]]
-
-[[日本語できます|https://www.erin.jpf.go.jp/]] 番組で日本語を勉強します。
-
-[[青空朗読|http://aozoraroudoku.jp/]]
-
 ! 話すましょう
 
 [[全国のボランティア日本語教室|https://u-biq.org/volunteermap.html]]
 
-! 歌いましょう
+[[墨田区のボランティア日本語教室|https://www.city.sumida.lg.jp/kurashi/tabunka/yasasii-nihongo/nihongovolunteer.html]]
 
-[[marumaru|https://www.jpmarumaru.com/tw/JPSongList-1.html]] 色々な日本語の歌を歌えます。
+---
 
-[[AxTongue|https://axtongue.com]]
-
-! 言葉
-
-[[日本語表現インフォ|https://hyogen.info/]] 単語の種類で探すができます。
-
-[[ちびむすドリル|https://happylilac.net/]] 幼児や小学生や中学生に向けて勉強素材です。
+<div class="tc-table-of-contents">
+<<toc-selective-expandable '1. お勧めの資料'>>
+</div>
