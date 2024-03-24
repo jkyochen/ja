@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tiddlywiki": "^5.2.7"
+    "tiddlywiki": "*"
   }
 }
